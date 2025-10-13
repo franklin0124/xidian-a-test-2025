@@ -20,9 +20,12 @@
 
 1.Micro-USB连接电脑和机械臂上的stm32
 
-2.用keil打开stm32的源代码（keil安装教程："开源6路舵机控制器\2.软件工具\Keil安装包及mcuisp下载工具\Keil软件激活教程.pdf"）
-<img width="985" height="401" alt="image" src="https://github.com/user-attachments/assets/9de01e55-abb8-46c5-9713-8f021f7c76ec" />
-**注**：stm32源代码以.uvproj结尾
+2.用keil打开stm32的源代码  
+（keil安装教程："开源6路舵机控制器\2.软件工具\Keil安装包及mcuisp下载工具\Keil软件激活教程.pdf"）  
+（stm32源代码："A级达标测试线下测试资料\LeArm\5.案例代码学习\stm32单片机\源码\STM32  2.2\STM32  2.2\STM32\OpenArmSTM32.uvprojx"）
+<img width="1106" height="627" alt="image" src="https://github.com/user-attachments/assets/4820d5a4-4664-443f-a7e8-a9b97ef41722" />
+
+**注**：stm32源代码以.uvproj或.uvprojx结尾
 
 3.编译代码生成可烧录的hex文件
 <img width="1331" height="652" alt="编译生成HEX" src="https://github.com/user-attachments/assets/9fad6070-e96a-4ab4-9f46-87d3cc8b37ae" />
