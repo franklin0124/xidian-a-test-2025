@@ -30,3 +30,13 @@
 3.编译代码生成可烧录的hex文件
 <img width="1331" height="652" alt="编译生成HEX" src="https://github.com/user-attachments/assets/9fad6070-e96a-4ab4-9f46-87d3cc8b37ae" />
 
+4.打开程序烧写工具mcuisp.exe ("开源6路舵机控制器\2.软件工具\Keil安装包及mcuisp下载工具\mcuisp.exe")
+<img width="238" height="299" alt="image" src="https://github.com/user-attachments/assets/5b0365b5-0cbd-4089-ac9a-a1dc6c9bfe0b" />
+
+5.需要选择设备的正确端口，波特率维持115200不变即可。<img width="1027" height="637" alt="image" src="https://github.com/user-attachments/assets/d3d2ec1e-9118-443b-b2cf-f8f9b19fea59" />
+
+6.选项卡模式选择“STMISP”，如下图所示，其他保持默认<img width="662" height="467" alt="image" src="https://github.com/user-attachments/assets/af192036-174b-4dfb-813a-6279326bd8fd" />
+
+
+
+
