@@ -22,7 +22,7 @@
 
 2.用keil打开stm32的源代码  
 （keil安装教程："开源6路舵机控制器\2.软件工具\Keil安装包及mcuisp下载工具\Keil软件激活教程.pdf"）  
-（stm32源代码："A级达标测试线下测试资料\LeArm\5.案例代码学习\stm32单片机\源码\STM32  2.2\STM32  2.2\STM32\OpenArmSTM32.uvprojx"）
+（stm32源代码："A级达标测试线下测试资料\LeArm\5.案例代码学习\stm32单片机\源码\STM32 2.2\STM32 2.2\STM32\OpenArmSTM32.uvprojx"）
 <img width="1106" height="627" alt="image" src="https://github.com/user-attachments/assets/4820d5a4-4664-443f-a7e8-a9b97ef41722" />
 
 **注**：stm32源代码以.uvproj或.uvprojx结尾
